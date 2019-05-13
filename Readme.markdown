@@ -11,6 +11,8 @@
 - キーを押した時のハプティック（触覚）フィードバック
   - リニアスイッチにタクタイル感を後付けしたい！的な
 
+動画あります：
+
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">meishiキーボードもといイルミネーションです！！！ <a href="https://t.co/v1jvpHVXxa">pic.twitter.com/v1jvpHVXxa</a></p>&mdash; ぜろけー🔨 (@zk_phi) <a href="https://twitter.com/zk_phi/status/1127585762080256000?ref_src=twsrc%5Etfw">2019年5月12日</a></blockquote>
 
 ----
