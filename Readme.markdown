@@ -74,7 +74,9 @@
 
 0. Pro Micro にファームを焼いて、コンスルーをつけておく
 
-TODO: ファームウェアのアップロード
+https://github.com/zk-phi/qmk_firmware
+
+: make handwired/kp_19:default:avrdude
 
 1. 失敗しやすいので LED をまずつける (Pro Micro を刺して光ることを確認しながら)
 
